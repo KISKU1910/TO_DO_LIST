@@ -8,7 +8,9 @@
  # Functionalities to implement:  
 
 Interactive and Responsive design
+
 Responsive Grid System
+
 Store and Delete items        
 
          
